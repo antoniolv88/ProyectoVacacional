@@ -1,9 +1,9 @@
 ## Descripcion
-# ProyectoVacacional
+ProyectoVacacional, 
 Este es un proyecto realizado en Java
 
 ## Autor
-Antonio Lorenzo Vazquez
+**Antonio Lorenzo Vázquez**
 
-www.linkedin.com/in/antoniolv88
-www.antoniolorenzov.xyz
+*[LindedIn] www.linkedin.com/in/antoniolv88
+*[Portafolio web] www.antoniolorenzov.xyz
